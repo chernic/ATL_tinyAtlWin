@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# no vs tempfiles
+*.pdb
+*.pch
+*.ilk
+*.idb
